@@ -1,0 +1,37 @@
+.pagination>li:first-child>a,.pagination>li:first-child>span {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.pagination>li:last-child>a, .pagination>li:last-child>span {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.btn, .btn-group-lg>.btn, .btn-lg, .input-lg {
+	border-radius: 30px;
+}
+#videoGroup {
+    border: 8px solid #95bfe3;
+    border-radius: 30px;
+    background: #95bfe3;
+}
+.btn, .pager a, .pagination a {
+	background-image: none;
+	box-shadow: none;
+}
+.btn {
+	padding: 6px 18px;
+}
+.btn-group-lg>.btn, .btn-lg {
+	padding: 10px 20px;
+}
+.dropdown-menu {
+	padding: 15px 0;
+	border-radius: 20px;
+}
+.footer, .footer a:active, .footer a:link, .footer a:hover, .footer a:visited {
+    color: #b1b1b1;
+}
+.footer h4 {
+	color: #ddd;
+}
+
